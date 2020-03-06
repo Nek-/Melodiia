@@ -15,7 +15,7 @@
         "friendsofphp/php-cs-fixer": "^2.13",
         "phpspec/prophecy": "^1.8",
         "twig/twig": "^2.5",
-        "symfony/symfony": "^4.2",
+        "symfony/symfony": "^4.2 || ^5.0",
         "doctrine/orm": "^2.6",
         "justinrainbow/json-schema": "^5.2"
     },
