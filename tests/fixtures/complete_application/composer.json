@@ -1,0 +1,11 @@
+{
+    "require": {
+        "biig/melodiia":  "*"
+    },
+    "repositories": [
+        {
+            "type": "path",
+            "url": "../../.."
+        }
+    ]
+}
